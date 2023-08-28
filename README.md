@@ -5,8 +5,7 @@
 
   
   ### About Me
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=timekeeep)]([https://velog.io/@timekeeep](https://velog.io/@timekeep))
-
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=timekeeep)](https://velog.io/@timekeep) 
   
   ## ⛏ Skills
   <br/>
