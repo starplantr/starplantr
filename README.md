@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 
-  ## Ploblem Solving & Project language
+  ## Ploblem Solving & Github
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jinsig98)](https://solved.ac/jinsig98)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&hide=contribs,prs&show_icons=true&theme=테마)
 </div>
