@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  About Me
+  ### About Me
   Blog : 
   Notion : 
   Instagram : 
@@ -28,4 +28,5 @@
   ## Ploblem Solving & Github
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jinsig98)](https://solved.ac/jinsig98)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=starplantr&hide=contribs,prs&show_icons=true&theme=테마)
+  <img src="http://mazandi.herokuapp.com/api?handle=jinsig98&theme=warm"/>
 </div>
