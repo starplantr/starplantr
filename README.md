@@ -5,7 +5,8 @@
 
   
   ### About Me
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=timekeeep)](https://velog.io/@timekeep) 
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=timekeeep)](https://velog.io/@timekeep)
+  <br/>
   <a href="mailto:sssjinsig@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sssjinsig@gmail.com"/></a>
   
   ## ⛏ Skills
