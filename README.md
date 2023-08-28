@@ -1,9 +1,9 @@
 
 <div align="center">
-
-  ### About Me
+  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto)
   
- (mailto:본인 이메일)
+  ### About Me
+
   Blog : [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@timekeep)]
   <br/>
   Notion :
@@ -12,7 +12,7 @@
   <br/>
 
   
-  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto)
+  
   <br/>
   ## ⛏ Skills
   #### Currently using
