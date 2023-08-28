@@ -2,9 +2,14 @@
 <div align="center">
 
   ### About Me
-  Blog : 
-  Notion : 
-  Instagram : 
+  
+ (mailto:본인 이메일)
+  Blog : [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@timekeep)]
+  <br/>
+  Notion :
+  <br/>
+  Gmail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sssjinsig@gmail.com)]
+  <br/>
 
   
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto)
