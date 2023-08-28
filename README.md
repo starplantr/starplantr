@@ -5,11 +5,11 @@
   
   ### About Me
 
-  Blog : [![Velog Badge](http://img.shields.io/badge/-Velog-20c997?style=flat&link=https://velog.io/@timekeep)]
+  Blog : 
   <br/>
   Notion :
   <br/>
-  Gmail : [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sssjinsig@gmail.com)]
+  Gmail : 
   <br/>
 
   
