@@ -27,6 +27,5 @@
 
   ## Ploblem Solving & Github
   [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=jinsig98)](https://solved.ac/jinsig98)
-  
-  <img src="http://mazandi.herokuapp.com/api?handle={jinsig98}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=jinsig98&theme=warm"/>
 </div>
